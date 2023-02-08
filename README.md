@@ -6,4 +6,6 @@ Opinionated starter pack for Typescript Express API
 # Usage
 Install: `npm install`
 
-Run the app: `npm run dev`
+Run it `npm run dev`
+
+hit it http://localhost:4000/health
