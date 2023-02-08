@@ -8,4 +8,4 @@ Install: `npm install`
 
 Run it `npm run dev`
 
-hit it http://localhost:4000/health
+Hit it http://localhost:4000/health
